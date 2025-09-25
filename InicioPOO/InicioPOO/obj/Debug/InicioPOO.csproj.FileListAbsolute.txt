@@ -1,0 +1,7 @@
+F:\MeusProjetos\POO_Csharp\InicioPOO\InicioPOO\bin\Debug\InicioPOO.exe.config
+F:\MeusProjetos\POO_Csharp\InicioPOO\InicioPOO\bin\Debug\InicioPOO.exe
+F:\MeusProjetos\POO_Csharp\InicioPOO\InicioPOO\bin\Debug\InicioPOO.pdb
+F:\MeusProjetos\POO_Csharp\InicioPOO\InicioPOO\obj\Debug\InicioPOO.csproj.AssemblyReference.cache
+F:\MeusProjetos\POO_Csharp\InicioPOO\InicioPOO\obj\Debug\InicioPOO.csproj.CoreCompileInputs.cache
+F:\MeusProjetos\POO_Csharp\InicioPOO\InicioPOO\obj\Debug\InicioPOO.exe
+F:\MeusProjetos\POO_Csharp\InicioPOO\InicioPOO\obj\Debug\InicioPOO.pdb

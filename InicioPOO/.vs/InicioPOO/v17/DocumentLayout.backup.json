@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\MeusProjetos\\POO_Csharp\\InicioPOO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC664C35-2C28-46C1-B44D-BCC4930F83E8}|InicioPOO\\InicioPOO.csproj|f:\\meusprojetos\\poo_csharp\\iniciopoo\\iniciopoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC664C35-2C28-46C1-B44D-BCC4930F83E8}|InicioPOO\\InicioPOO.csproj|solutionrelative:iniciopoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC664C35-2C28-46C1-B44D-BCC4930F83E8}|InicioPOO\\InicioPOO.csproj|F:\\MeusProjetos\\POO_Csharp\\InicioPOO\\iniciopoo\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC664C35-2C28-46C1-B44D-BCC4930F83E8}|InicioPOO\\InicioPOO.csproj|solutionrelative:iniciopoo\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "F:\\MeusProjetos\\POO_Csharp\\InicioPOO\\InicioPOO\\Livro.cs",
+              "RelativeDocumentMoniker": "InicioPOO\\Livro.cs",
+              "ToolTip": "F:\\MeusProjetos\\POO_Csharp\\InicioPOO\\InicioPOO\\Livro.cs",
+              "RelativeToolTip": "InicioPOO\\Livro.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T23:05:42.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\MeusProjetos\\POO_Csharp\\InicioPOO\\InicioPOO\\Program.cs",
+              "RelativeDocumentMoniker": "InicioPOO\\Program.cs",
+              "ToolTip": "F:\\MeusProjetos\\POO_Csharp\\InicioPOO\\InicioPOO\\Program.cs",
+              "RelativeToolTip": "InicioPOO\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T22:42:35.329Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
