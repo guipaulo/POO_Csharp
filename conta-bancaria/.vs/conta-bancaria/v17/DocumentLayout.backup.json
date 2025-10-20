@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\MeusProjetos\\POO_Csharp\\conta-bancaria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7936F51A-8D36-47F8-8C15-1A4F7DCFB798}|conta-bancaria\\conta-bancaria.csproj|f:\\meusprojetos\\poo_csharp\\conta-bancaria\\conta-bancaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7936F51A-8D36-47F8-8C15-1A4F7DCFB798}|conta-bancaria\\conta-bancaria.csproj|solutionrelative:conta-bancaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7936F51A-8D36-47F8-8C15-1A4F7DCFB798}|conta-bancaria\\conta-bancaria.csproj|f:\\meusprojetos\\poo_csharp\\conta-bancaria\\conta-bancaria\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7936F51A-8D36-47F8-8C15-1A4F7DCFB798}|conta-bancaria\\conta-bancaria.csproj|solutionrelative:conta-bancaria\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContaBancaria.cs",
+              "DocumentMoniker": "F:\\MeusProjetos\\POO_Csharp\\conta-bancaria\\conta-bancaria\\ContaBancaria.cs",
+              "RelativeDocumentMoniker": "conta-bancaria\\ContaBancaria.cs",
+              "ToolTip": "F:\\MeusProjetos\\POO_Csharp\\conta-bancaria\\conta-bancaria\\ContaBancaria.cs",
+              "RelativeToolTip": "conta-bancaria\\ContaBancaria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T21:20:05.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\MeusProjetos\\POO_Csharp\\conta-bancaria\\conta-bancaria\\Program.cs",
+              "RelativeDocumentMoniker": "conta-bancaria\\Program.cs",
+              "ToolTip": "F:\\MeusProjetos\\POO_Csharp\\conta-bancaria\\conta-bancaria\\Program.cs",
+              "RelativeToolTip": "conta-bancaria\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T21:19:35.859Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

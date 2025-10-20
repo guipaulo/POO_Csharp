@@ -1,0 +1,7 @@
+F:\MeusProjetos\POO_Csharp\conta-bancaria\conta-bancaria\bin\Debug\conta-bancaria.exe.config
+F:\MeusProjetos\POO_Csharp\conta-bancaria\conta-bancaria\bin\Debug\conta-bancaria.exe
+F:\MeusProjetos\POO_Csharp\conta-bancaria\conta-bancaria\bin\Debug\conta-bancaria.pdb
+F:\MeusProjetos\POO_Csharp\conta-bancaria\conta-bancaria\obj\Debug\conta-bancaria.csproj.AssemblyReference.cache
+F:\MeusProjetos\POO_Csharp\conta-bancaria\conta-bancaria\obj\Debug\conta-bancaria.csproj.CoreCompileInputs.cache
+F:\MeusProjetos\POO_Csharp\conta-bancaria\conta-bancaria\obj\Debug\conta-bancaria.exe
+F:\MeusProjetos\POO_Csharp\conta-bancaria\conta-bancaria\obj\Debug\conta-bancaria.pdb
