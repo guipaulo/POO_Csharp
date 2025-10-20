@@ -1,0 +1,7 @@
+F:\MeusProjetos\POO_Csharp\computador\computador\bin\Debug\computador.exe.config
+F:\MeusProjetos\POO_Csharp\computador\computador\bin\Debug\computador.exe
+F:\MeusProjetos\POO_Csharp\computador\computador\bin\Debug\computador.pdb
+F:\MeusProjetos\POO_Csharp\computador\computador\obj\Debug\computador.csproj.AssemblyReference.cache
+F:\MeusProjetos\POO_Csharp\computador\computador\obj\Debug\computador.csproj.CoreCompileInputs.cache
+F:\MeusProjetos\POO_Csharp\computador\computador\obj\Debug\computador.exe
+F:\MeusProjetos\POO_Csharp\computador\computador\obj\Debug\computador.pdb
