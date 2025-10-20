@@ -7,15 +7,15 @@
       "RelativeMoniker": "D:0:0:{A4278A11-AA93-4FAB-8CBF-60E5BFB17F92}|computador\\computador.csproj|solutionrelative:computador\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4278A11-AA93-4FAB-8CBF-60E5BFB17F92}|computador\\computador.csproj|f:\\meusprojetos\\poo_csharp\\computador\\computador\\processador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A4278A11-AA93-4FAB-8CBF-60E5BFB17F92}|computador\\computador.csproj|F:\\MeusProjetos\\POO_Csharp\\computador\\computador\\processador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4278A11-AA93-4FAB-8CBF-60E5BFB17F92}|computador\\computador.csproj|solutionrelative:computador\\processador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4278A11-AA93-4FAB-8CBF-60E5BFB17F92}|computador\\computador.csproj|f:\\meusprojetos\\poo_csharp\\computador\\computador\\computador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A4278A11-AA93-4FAB-8CBF-60E5BFB17F92}|computador\\computador.csproj|F:\\MeusProjetos\\POO_Csharp\\computador\\computador\\computador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4278A11-AA93-4FAB-8CBF-60E5BFB17F92}|computador\\computador.csproj|solutionrelative:computador\\computador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4278A11-AA93-4FAB-8CBF-60E5BFB17F92}|computador\\computador.csproj|f:\\meusprojetos\\poo_csharp\\computador\\computador\\memoriaram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A4278A11-AA93-4FAB-8CBF-60E5BFB17F92}|computador\\computador.csproj|F:\\MeusProjetos\\POO_Csharp\\computador\\computador\\memoriaram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4278A11-AA93-4FAB-8CBF-60E5BFB17F92}|computador\\computador.csproj|solutionrelative:computador\\memoriaram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,8 +38,7 @@
               "RelativeToolTip": "computador\\Computador.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAEwBcAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T22:10:18.71Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T22:10:18.71Z"
             },
             {
               "$type": "Document",
@@ -51,8 +50,7 @@
               "RelativeToolTip": "computador\\MemoriaRAM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T22:10:01.309Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T22:10:01.309Z"
             },
             {
               "$type": "Document",
@@ -64,8 +62,7 @@
               "RelativeToolTip": "computador\\Processador.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T22:09:43.316Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T22:09:43.316Z"
             },
             {
               "$type": "Document",
@@ -75,7 +72,7 @@
               "RelativeDocumentMoniker": "computador\\Program.cs",
               "ToolTip": "F:\\MeusProjetos\\POO_Csharp\\computador\\computador\\Program.cs",
               "RelativeToolTip": "computador\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-20T22:09:01.399Z",
               "EditorCaption": ""
