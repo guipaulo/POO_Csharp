@@ -1,0 +1,7 @@
+F:\MeusProjetos\POO_Csharp\veiculos\veiculos\bin\Debug\veiculos.exe.config
+F:\MeusProjetos\POO_Csharp\veiculos\veiculos\bin\Debug\veiculos.exe
+F:\MeusProjetos\POO_Csharp\veiculos\veiculos\bin\Debug\veiculos.pdb
+F:\MeusProjetos\POO_Csharp\veiculos\veiculos\obj\Debug\veiculos.csproj.AssemblyReference.cache
+F:\MeusProjetos\POO_Csharp\veiculos\veiculos\obj\Debug\veiculos.csproj.CoreCompileInputs.cache
+F:\MeusProjetos\POO_Csharp\veiculos\veiculos\obj\Debug\veiculos.exe
+F:\MeusProjetos\POO_Csharp\veiculos\veiculos\obj\Debug\veiculos.pdb
