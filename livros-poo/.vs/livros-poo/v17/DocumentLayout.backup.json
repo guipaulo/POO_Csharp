@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\MeusProjetos\\POO_Csharp\\livros-poo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A085591-3674-4D51-B1B3-292C5F3A1357}|livros-poo\\livros-poo.csproj|f:\\meusprojetos\\poo_csharp\\livros-poo\\livros-poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A085591-3674-4D51-B1B3-292C5F3A1357}|livros-poo\\livros-poo.csproj|solutionrelative:livros-poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A085591-3674-4D51-B1B3-292C5F3A1357}|livros-poo\\livros-poo.csproj|f:\\meusprojetos\\poo_csharp\\livros-poo\\livros-poo\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A085591-3674-4D51-B1B3-292C5F3A1357}|livros-poo\\livros-poo.csproj|solutionrelative:livros-poo\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "F:\\MeusProjetos\\POO_Csharp\\livros-poo\\livros-poo\\Livro.cs",
+              "RelativeDocumentMoniker": "livros-poo\\Livro.cs",
+              "ToolTip": "F:\\MeusProjetos\\POO_Csharp\\livros-poo\\livros-poo\\Livro.cs",
+              "RelativeToolTip": "livros-poo\\Livro.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T20:58:22.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\MeusProjetos\\POO_Csharp\\livros-poo\\livros-poo\\Program.cs",
+              "RelativeDocumentMoniker": "livros-poo\\Program.cs",
+              "ToolTip": "F:\\MeusProjetos\\POO_Csharp\\livros-poo\\livros-poo\\Program.cs",
+              "RelativeToolTip": "livros-poo\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwCUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T20:56:48.731Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+F:\MeusProjetos\POO_Csharp\livros-poo\livros-poo\bin\Debug\livros-poo.exe.config
+F:\MeusProjetos\POO_Csharp\livros-poo\livros-poo\bin\Debug\livros-poo.exe
+F:\MeusProjetos\POO_Csharp\livros-poo\livros-poo\bin\Debug\livros-poo.pdb
+F:\MeusProjetos\POO_Csharp\livros-poo\livros-poo\obj\Debug\livros-poo.csproj.AssemblyReference.cache
+F:\MeusProjetos\POO_Csharp\livros-poo\livros-poo\obj\Debug\livros-poo.csproj.CoreCompileInputs.cache
+F:\MeusProjetos\POO_Csharp\livros-poo\livros-poo\obj\Debug\livros-poo.exe
+F:\MeusProjetos\POO_Csharp\livros-poo\livros-poo\obj\Debug\livros-poo.pdb
