@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\MeusProjetos\\POO_Csharp\\contador-seguro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4A4122B-A7C4-42F1-8ECA-9746F88DEE1C}|contador-seguro\\contador-seguro.csproj|f:\\meusprojetos\\poo_csharp\\contador-seguro\\contador-seguro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4A4122B-A7C4-42F1-8ECA-9746F88DEE1C}|contador-seguro\\contador-seguro.csproj|solutionrelative:contador-seguro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4A4122B-A7C4-42F1-8ECA-9746F88DEE1C}|contador-seguro\\contador-seguro.csproj|f:\\meusprojetos\\poo_csharp\\contador-seguro\\contador-seguro\\contadorseguro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4A4122B-A7C4-42F1-8ECA-9746F88DEE1C}|contador-seguro\\contador-seguro.csproj|solutionrelative:contador-seguro\\contadorseguro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContadorSeguro.cs",
+              "DocumentMoniker": "F:\\MeusProjetos\\POO_Csharp\\contador-seguro\\contador-seguro\\ContadorSeguro.cs",
+              "RelativeDocumentMoniker": "contador-seguro\\ContadorSeguro.cs",
+              "ToolTip": "F:\\MeusProjetos\\POO_Csharp\\contador-seguro\\contador-seguro\\ContadorSeguro.cs",
+              "RelativeToolTip": "contador-seguro\\ContadorSeguro.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T21:33:28.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\MeusProjetos\\POO_Csharp\\contador-seguro\\contador-seguro\\Program.cs",
+              "RelativeDocumentMoniker": "contador-seguro\\Program.cs",
+              "ToolTip": "F:\\MeusProjetos\\POO_Csharp\\contador-seguro\\contador-seguro\\Program.cs",
+              "RelativeToolTip": "contador-seguro\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T21:32:50.54Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

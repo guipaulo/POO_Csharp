@@ -1,0 +1,7 @@
+F:\MeusProjetos\POO_Csharp\contador-seguro\contador-seguro\bin\Debug\contador-seguro.exe.config
+F:\MeusProjetos\POO_Csharp\contador-seguro\contador-seguro\bin\Debug\contador-seguro.exe
+F:\MeusProjetos\POO_Csharp\contador-seguro\contador-seguro\bin\Debug\contador-seguro.pdb
+F:\MeusProjetos\POO_Csharp\contador-seguro\contador-seguro\obj\Debug\contador-seguro.csproj.AssemblyReference.cache
+F:\MeusProjetos\POO_Csharp\contador-seguro\contador-seguro\obj\Debug\contador-seguro.csproj.CoreCompileInputs.cache
+F:\MeusProjetos\POO_Csharp\contador-seguro\contador-seguro\obj\Debug\contador-seguro.exe
+F:\MeusProjetos\POO_Csharp\contador-seguro\contador-seguro\obj\Debug\contador-seguro.pdb
