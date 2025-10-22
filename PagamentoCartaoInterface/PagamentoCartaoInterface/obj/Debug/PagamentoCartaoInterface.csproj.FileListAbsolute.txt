@@ -1,0 +1,7 @@
+F:\MeusProjetos\POO_Csharp\PagamentoCartaoInterface\PagamentoCartaoInterface\obj\Debug\PagamentoCartaoInterface.csproj.AssemblyReference.cache
+F:\MeusProjetos\POO_Csharp\PagamentoCartaoInterface\PagamentoCartaoInterface\obj\Debug\PagamentoCartaoInterface.csproj.CoreCompileInputs.cache
+F:\MeusProjetos\POO_Csharp\PagamentoCartaoInterface\PagamentoCartaoInterface\bin\Debug\PagamentoCartaoInterface.exe.config
+F:\MeusProjetos\POO_Csharp\PagamentoCartaoInterface\PagamentoCartaoInterface\bin\Debug\PagamentoCartaoInterface.exe
+F:\MeusProjetos\POO_Csharp\PagamentoCartaoInterface\PagamentoCartaoInterface\bin\Debug\PagamentoCartaoInterface.pdb
+F:\MeusProjetos\POO_Csharp\PagamentoCartaoInterface\PagamentoCartaoInterface\obj\Debug\PagamentoCartaoInterface.exe
+F:\MeusProjetos\POO_Csharp\PagamentoCartaoInterface\PagamentoCartaoInterface\obj\Debug\PagamentoCartaoInterface.pdb
