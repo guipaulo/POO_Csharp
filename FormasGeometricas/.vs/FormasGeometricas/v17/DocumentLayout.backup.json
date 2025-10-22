@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\MeusProjetos\\POO_Csharp\\FormasGeometricas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A82EC88-E84B-4C4A-AC52-D9E8E89A9B98}|FormasGeometricas\\FormasGeometricas.csproj|f:\\meusprojetos\\poo_csharp\\formasgeometricas\\formasgeometricas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A82EC88-E84B-4C4A-AC52-D9E8E89A9B98}|FormasGeometricas\\FormasGeometricas.csproj|solutionrelative:formasgeometricas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A82EC88-E84B-4C4A-AC52-D9E8E89A9B98}|FormasGeometricas\\FormasGeometricas.csproj|f:\\meusprojetos\\poo_csharp\\formasgeometricas\\formasgeometricas\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A82EC88-E84B-4C4A-AC52-D9E8E89A9B98}|FormasGeometricas\\FormasGeometricas.csproj|solutionrelative:formasgeometricas\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A82EC88-E84B-4C4A-AC52-D9E8E89A9B98}|FormasGeometricas\\FormasGeometricas.csproj|f:\\meusprojetos\\poo_csharp\\formasgeometricas\\formasgeometricas\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A82EC88-E84B-4C4A-AC52-D9E8E89A9B98}|FormasGeometricas\\FormasGeometricas.csproj|solutionrelative:formasgeometricas\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A82EC88-E84B-4C4A-AC52-D9E8E89A9B98}|FormasGeometricas\\FormasGeometricas.csproj|f:\\meusprojetos\\poo_csharp\\formasgeometricas\\formasgeometricas\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A82EC88-E84B-4C4A-AC52-D9E8E89A9B98}|FormasGeometricas\\FormasGeometricas.csproj|solutionrelative:formasgeometricas\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A82EC88-E84B-4C4A-AC52-D9E8E89A9B98}|FormasGeometricas\\FormasGeometricas.csproj|f:\\meusprojetos\\poo_csharp\\formasgeometricas\\formasgeometricas\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A82EC88-E84B-4C4A-AC52-D9E8E89A9B98}|FormasGeometricas\\FormasGeometricas.csproj|solutionrelative:formasgeometricas\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "F:\\MeusProjetos\\POO_Csharp\\FormasGeometricas\\FormasGeometricas\\Triangle.cs",
+              "RelativeDocumentMoniker": "FormasGeometricas\\Triangle.cs",
+              "ToolTip": "F:\\MeusProjetos\\POO_Csharp\\FormasGeometricas\\FormasGeometricas\\Triangle.cs",
+              "RelativeToolTip": "FormasGeometricas\\Triangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T21:41:05.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "F:\\MeusProjetos\\POO_Csharp\\FormasGeometricas\\FormasGeometricas\\Circle.cs",
+              "RelativeDocumentMoniker": "FormasGeometricas\\Circle.cs",
+              "ToolTip": "F:\\MeusProjetos\\POO_Csharp\\FormasGeometricas\\FormasGeometricas\\Circle.cs",
+              "RelativeToolTip": "FormasGeometricas\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T21:39:34.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Square.cs",
+              "DocumentMoniker": "F:\\MeusProjetos\\POO_Csharp\\FormasGeometricas\\FormasGeometricas\\Square.cs",
+              "RelativeDocumentMoniker": "FormasGeometricas\\Square.cs",
+              "ToolTip": "F:\\MeusProjetos\\POO_Csharp\\FormasGeometricas\\FormasGeometricas\\Square.cs",
+              "RelativeToolTip": "FormasGeometricas\\Square.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T21:35:49.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "F:\\MeusProjetos\\POO_Csharp\\FormasGeometricas\\FormasGeometricas\\Shape.cs",
+              "RelativeDocumentMoniker": "FormasGeometricas\\Shape.cs",
+              "ToolTip": "F:\\MeusProjetos\\POO_Csharp\\FormasGeometricas\\FormasGeometricas\\Shape.cs",
+              "RelativeToolTip": "FormasGeometricas\\Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T21:33:02.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\MeusProjetos\\POO_Csharp\\FormasGeometricas\\FormasGeometricas\\Program.cs",
+              "RelativeDocumentMoniker": "FormasGeometricas\\Program.cs",
+              "ToolTip": "F:\\MeusProjetos\\POO_Csharp\\FormasGeometricas\\FormasGeometricas\\Program.cs*",
+              "RelativeToolTip": "FormasGeometricas\\Program.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T21:32:30.633Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

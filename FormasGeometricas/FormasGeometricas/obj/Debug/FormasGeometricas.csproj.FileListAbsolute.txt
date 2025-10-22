@@ -1,0 +1,7 @@
+F:\MeusProjetos\POO_Csharp\FormasGeometricas\FormasGeometricas\bin\Debug\FormasGeometricas.exe.config
+F:\MeusProjetos\POO_Csharp\FormasGeometricas\FormasGeometricas\bin\Debug\FormasGeometricas.exe
+F:\MeusProjetos\POO_Csharp\FormasGeometricas\FormasGeometricas\bin\Debug\FormasGeometricas.pdb
+F:\MeusProjetos\POO_Csharp\FormasGeometricas\FormasGeometricas\obj\Debug\FormasGeometricas.csproj.AssemblyReference.cache
+F:\MeusProjetos\POO_Csharp\FormasGeometricas\FormasGeometricas\obj\Debug\FormasGeometricas.csproj.CoreCompileInputs.cache
+F:\MeusProjetos\POO_Csharp\FormasGeometricas\FormasGeometricas\obj\Debug\FormasGeometricas.exe
+F:\MeusProjetos\POO_Csharp\FormasGeometricas\FormasGeometricas\obj\Debug\FormasGeometricas.pdb
