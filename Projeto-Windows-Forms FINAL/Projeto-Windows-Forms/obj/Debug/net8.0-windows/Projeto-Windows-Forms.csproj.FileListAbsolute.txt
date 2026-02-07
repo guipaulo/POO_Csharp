@@ -1,0 +1,34 @@
+C:\Users\paulo\Desktop\Projeto-Windows-Forms\Projeto-Windows-Forms\bin\Debug\net8.0-windows\Projeto-Windows-Forms.exe
+C:\Users\paulo\Desktop\Projeto-Windows-Forms\Projeto-Windows-Forms\bin\Debug\net8.0-windows\Projeto-Windows-Forms.deps.json
+C:\Users\paulo\Desktop\Projeto-Windows-Forms\Projeto-Windows-Forms\bin\Debug\net8.0-windows\Projeto-Windows-Forms.runtimeconfig.json
+C:\Users\paulo\Desktop\Projeto-Windows-Forms\Projeto-Windows-Forms\bin\Debug\net8.0-windows\Projeto-Windows-Forms.dll
+C:\Users\paulo\Desktop\Projeto-Windows-Forms\Projeto-Windows-Forms\bin\Debug\net8.0-windows\Projeto-Windows-Forms.pdb
+C:\Users\paulo\Desktop\Projeto-Windows-Forms\Projeto-Windows-Forms\obj\Debug\net8.0-windows\Projeto_Windows_Forms.Form1.resources
+C:\Users\paulo\Desktop\Projeto-Windows-Forms\Projeto-Windows-Forms\obj\Debug\net8.0-windows\Projeto-Windows-Forms.csproj.GenerateResource.cache
+C:\Users\paulo\Desktop\Projeto-Windows-Forms\Projeto-Windows-Forms\obj\Debug\net8.0-windows\Projeto-Windows-Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\Desktop\Projeto-Windows-Forms\Projeto-Windows-Forms\obj\Debug\net8.0-windows\Projeto-Windows-Forms.AssemblyInfoInputs.cache
+C:\Users\paulo\Desktop\Projeto-Windows-Forms\Projeto-Windows-Forms\obj\Debug\net8.0-windows\Projeto-Windows-Forms.AssemblyInfo.cs
+C:\Users\paulo\Desktop\Projeto-Windows-Forms\Projeto-Windows-Forms\obj\Debug\net8.0-windows\Projeto-Windows-Forms.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Desktop\Projeto-Windows-Forms\Projeto-Windows-Forms\obj\Debug\net8.0-windows\Projeto-Windows-Forms.dll
+C:\Users\paulo\Desktop\Projeto-Windows-Forms\Projeto-Windows-Forms\obj\Debug\net8.0-windows\refint\Projeto-Windows-Forms.dll
+C:\Users\paulo\Desktop\Projeto-Windows-Forms\Projeto-Windows-Forms\obj\Debug\net8.0-windows\Projeto-Windows-Forms.pdb
+C:\Users\paulo\Desktop\Projeto-Windows-Forms\Projeto-Windows-Forms\obj\Debug\net8.0-windows\Projeto-Windows-Forms.genruntimeconfig.cache
+C:\Users\paulo\Desktop\Projeto-Windows-Forms\Projeto-Windows-Forms\obj\Debug\net8.0-windows\ref\Projeto-Windows-Forms.dll
+C:\Users\paulo\Desktop\Projeto-Windows-Forms FINAL\Projeto-Windows-Forms\bin\Debug\net8.0-windows\Projeto-Windows-Forms.exe
+C:\Users\paulo\Desktop\Projeto-Windows-Forms FINAL\Projeto-Windows-Forms\bin\Debug\net8.0-windows\Projeto-Windows-Forms.deps.json
+C:\Users\paulo\Desktop\Projeto-Windows-Forms FINAL\Projeto-Windows-Forms\bin\Debug\net8.0-windows\Projeto-Windows-Forms.runtimeconfig.json
+C:\Users\paulo\Desktop\Projeto-Windows-Forms FINAL\Projeto-Windows-Forms\bin\Debug\net8.0-windows\Projeto-Windows-Forms.dll
+C:\Users\paulo\Desktop\Projeto-Windows-Forms FINAL\Projeto-Windows-Forms\bin\Debug\net8.0-windows\Projeto-Windows-Forms.pdb
+C:\Users\paulo\Desktop\Projeto-Windows-Forms FINAL\Projeto-Windows-Forms\obj\Debug\net8.0-windows\Projeto_Windows_Forms.Cadastro.resources
+C:\Users\paulo\Desktop\Projeto-Windows-Forms FINAL\Projeto-Windows-Forms\obj\Debug\net8.0-windows\Projeto_Windows_Forms.Form1.resources
+C:\Users\paulo\Desktop\Projeto-Windows-Forms FINAL\Projeto-Windows-Forms\obj\Debug\net8.0-windows\Projeto_Windows_Forms.Listagem.resources
+C:\Users\paulo\Desktop\Projeto-Windows-Forms FINAL\Projeto-Windows-Forms\obj\Debug\net8.0-windows\Projeto-Windows-Forms.csproj.GenerateResource.cache
+C:\Users\paulo\Desktop\Projeto-Windows-Forms FINAL\Projeto-Windows-Forms\obj\Debug\net8.0-windows\Projeto-Windows-Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\Desktop\Projeto-Windows-Forms FINAL\Projeto-Windows-Forms\obj\Debug\net8.0-windows\Projeto-Windows-Forms.AssemblyInfoInputs.cache
+C:\Users\paulo\Desktop\Projeto-Windows-Forms FINAL\Projeto-Windows-Forms\obj\Debug\net8.0-windows\Projeto-Windows-Forms.AssemblyInfo.cs
+C:\Users\paulo\Desktop\Projeto-Windows-Forms FINAL\Projeto-Windows-Forms\obj\Debug\net8.0-windows\Projeto-Windows-Forms.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Desktop\Projeto-Windows-Forms FINAL\Projeto-Windows-Forms\obj\Debug\net8.0-windows\Projeto-Windows-Forms.dll
+C:\Users\paulo\Desktop\Projeto-Windows-Forms FINAL\Projeto-Windows-Forms\obj\Debug\net8.0-windows\refint\Projeto-Windows-Forms.dll
+C:\Users\paulo\Desktop\Projeto-Windows-Forms FINAL\Projeto-Windows-Forms\obj\Debug\net8.0-windows\Projeto-Windows-Forms.pdb
+C:\Users\paulo\Desktop\Projeto-Windows-Forms FINAL\Projeto-Windows-Forms\obj\Debug\net8.0-windows\Projeto-Windows-Forms.genruntimeconfig.cache
+C:\Users\paulo\Desktop\Projeto-Windows-Forms FINAL\Projeto-Windows-Forms\obj\Debug\net8.0-windows\ref\Projeto-Windows-Forms.dll
