@@ -1,30 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\paulo\\Desktop\\Projeto-Windows-Forms FINAL\\",
+  "WorkspaceRootPath": "F:\\MeusProjetos\\POO_Csharp\\Projeto-Windows-Forms FINAL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1FFDDA4C-7A79-4E6D-BD17-A6FCB50CD358}|Projeto-Windows-Forms\\Projeto-Windows-Forms.csproj|c:\\users\\paulo\\desktop\\projeto-windows-forms final\\projeto-windows-forms\\listagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FFDDA4C-7A79-4E6D-BD17-A6FCB50CD358}|Projeto-Windows-Forms\\Projeto-Windows-Forms.csproj|solutionrelative:projeto-windows-forms\\listagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FFDDA4C-7A79-4E6D-BD17-A6FCB50CD358}|Projeto-Windows-Forms\\Projeto-Windows-Forms.csproj|c:\\users\\paulo\\desktop\\projeto-windows-forms final\\projeto-windows-forms\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1FFDDA4C-7A79-4E6D-BD17-A6FCB50CD358}|Projeto-Windows-Forms\\Projeto-Windows-Forms.csproj|f:\\meusprojetos\\poo_csharp\\projeto-windows-forms final\\projeto-windows-forms\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1FFDDA4C-7A79-4E6D-BD17-A6FCB50CD358}|Projeto-Windows-Forms\\Projeto-Windows-Forms.csproj|solutionrelative:projeto-windows-forms\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FFDDA4C-7A79-4E6D-BD17-A6FCB50CD358}|Projeto-Windows-Forms\\Projeto-Windows-Forms.csproj|c:\\users\\paulo\\desktop\\projeto-windows-forms final\\projeto-windows-forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FFDDA4C-7A79-4E6D-BD17-A6FCB50CD358}|Projeto-Windows-Forms\\Projeto-Windows-Forms.csproj|solutionrelative:projeto-windows-forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FFDDA4C-7A79-4E6D-BD17-A6FCB50CD358}|Projeto-Windows-Forms\\Projeto-Windows-Forms.csproj|C:\\Users\\paulo\\Desktop\\Projeto-Windows-Forms FINAL\\projeto-windows-forms\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1FFDDA4C-7A79-4E6D-BD17-A6FCB50CD358}|Projeto-Windows-Forms\\Projeto-Windows-Forms.csproj|f:\\meusprojetos\\poo_csharp\\projeto-windows-forms final\\projeto-windows-forms\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1FFDDA4C-7A79-4E6D-BD17-A6FCB50CD358}|Projeto-Windows-Forms\\Projeto-Windows-Forms.csproj|solutionrelative:projeto-windows-forms\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FFDDA4C-7A79-4E6D-BD17-A6FCB50CD358}|Projeto-Windows-Forms\\Projeto-Windows-Forms.csproj|C:\\Users\\paulo\\Desktop\\Projeto-Windows-Forms FINAL\\projeto-windows-forms\\listagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1FFDDA4C-7A79-4E6D-BD17-A6FCB50CD358}|Projeto-Windows-Forms\\Projeto-Windows-Forms.csproj|solutionrelative:projeto-windows-forms\\listagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FFDDA4C-7A79-4E6D-BD17-A6FCB50CD358}|Projeto-Windows-Forms\\Projeto-Windows-Forms.csproj|C:\\Users\\paulo\\Desktop\\Projeto-Windows-Forms FINAL\\projeto-windows-forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1FFDDA4C-7A79-4E6D-BD17-A6FCB50CD358}|Projeto-Windows-Forms\\Projeto-Windows-Forms.csproj|solutionrelative:projeto-windows-forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,75 +26,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\paulo\\Desktop\\Projeto-Windows-Forms FINAL\\Projeto-Windows-Forms\\Form1.cs",
-              "RelativeDocumentMoniker": "Projeto-Windows-Forms\\Form1.cs",
-              "ToolTip": "C:\\Users\\paulo\\Desktop\\Projeto-Windows-Forms FINAL\\Projeto-Windows-Forms\\Form1.cs",
-              "RelativeToolTip": "Projeto-Windows-Forms\\Form1.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAwwDEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-06T16:50:40.116Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Listagem.cs",
-              "DocumentMoniker": "C:\\Users\\paulo\\Desktop\\Projeto-Windows-Forms FINAL\\Projeto-Windows-Forms\\Listagem.cs",
-              "RelativeDocumentMoniker": "Projeto-Windows-Forms\\Listagem.cs",
-              "ToolTip": "C:\\Users\\paulo\\Desktop\\Projeto-Windows-Forms FINAL\\Projeto-Windows-Forms\\Listagem.cs",
-              "RelativeToolTip": "Projeto-Windows-Forms\\Listagem.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAqwBMAAAAOAAAAAAAAAA==",
+              "Title": "Cadastro.cs",
+              "DocumentMoniker": "F:\\MeusProjetos\\POO_Csharp\\Projeto-Windows-Forms FINAL\\Projeto-Windows-Forms\\Cadastro.cs",
+              "RelativeDocumentMoniker": "Projeto-Windows-Forms\\Cadastro.cs",
+              "ToolTip": "F:\\MeusProjetos\\POO_Csharp\\Projeto-Windows-Forms FINAL\\Projeto-Windows-Forms\\Cadastro.cs",
+              "RelativeToolTip": "Projeto-Windows-Forms\\Cadastro.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-05T14:18:05.992Z",
+              "WhenOpened": "2026-02-26T14:57:24.943Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Cadastro.cs",
-              "DocumentMoniker": "C:\\Users\\paulo\\Desktop\\Projeto-Windows-Forms FINAL\\Projeto-Windows-Forms\\Cadastro.cs",
-              "RelativeDocumentMoniker": "Projeto-Windows-Forms\\Cadastro.cs",
-              "ToolTip": "C:\\Users\\paulo\\Desktop\\Projeto-Windows-Forms FINAL\\Projeto-Windows-Forms\\Cadastro.cs",
-              "RelativeToolTip": "Projeto-Windows-Forms\\Cadastro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKAAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-05T14:19:41.116Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Form1.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\paulo\\Desktop\\Projeto-Windows-Forms FINAL\\Projeto-Windows-Forms\\Form1.cs",
-              "RelativeDocumentMoniker": "Projeto-Windows-Forms\\Form1.cs",
-              "ToolTip": "C:\\Users\\paulo\\Desktop\\Projeto-Windows-Forms FINAL\\Projeto-Windows-Forms\\Form1.cs [Projeto]",
-              "RelativeToolTip": "Projeto-Windows-Forms\\Form1.cs [Projeto]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-05T14:13:43.282Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Cadastro.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\paulo\\Desktop\\Projeto-Windows-Forms FINAL\\Projeto-Windows-Forms\\Cadastro.cs",
+              "DocumentMoniker": "F:\\MeusProjetos\\POO_Csharp\\Projeto-Windows-Forms FINAL\\Projeto-Windows-Forms\\Cadastro.cs",
               "RelativeDocumentMoniker": "Projeto-Windows-Forms\\Cadastro.cs",
-              "ToolTip": "C:\\Users\\paulo\\Desktop\\Projeto-Windows-Forms FINAL\\Projeto-Windows-Forms\\Cadastro.cs [Projeto]",
+              "ToolTip": "F:\\MeusProjetos\\POO_Csharp\\Projeto-Windows-Forms FINAL\\Projeto-Windows-Forms\\Cadastro.cs [Projeto]",
               "RelativeToolTip": "Projeto-Windows-Forms\\Cadastro.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-05T14:13:33.99Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Listagem.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\paulo\\Desktop\\Projeto-Windows-Forms FINAL\\Projeto-Windows-Forms\\Listagem.cs",
-              "RelativeDocumentMoniker": "Projeto-Windows-Forms\\Listagem.cs",
-              "ToolTip": "C:\\Users\\paulo\\Desktop\\Projeto-Windows-Forms FINAL\\Projeto-Windows-Forms\\Listagem.cs [Projeto]",
-              "RelativeToolTip": "Projeto-Windows-Forms\\Listagem.cs [Projeto]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-05T14:13:15.587Z"
+              "WhenOpened": "2026-02-26T14:57:22.288Z",
+              "EditorCaption": " [Projeto]"
             }
           ]
         }
